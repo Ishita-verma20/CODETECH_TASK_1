@@ -37,10 +37,22 @@ Libraries: Pandas, Numpy, Matplotlib, SciKit learn ,Seaborn<br>
 **K- MEANS ALGORITHM**<br>
 It is an iterative algorithm that divides the unlabelled dataset into k different clusters in such a way that each dataset belongs to only one group that has similar properties.<br>
 ![k means](https://github.com/Ishita-verma20/CODETECH_TASK_1/assets/174854145/0be2399e-e062-4f77-9117-fbbd05131526)<br>
+K-means is a popular clustering algorithm used in machine learning and data analysis to partition a dataset into K distinct, non-overlapping subsets or clusters.<br>
+**Steps of the K-means Algorithm**<br>
+**1.Initialization:**<br>
+Choose the number of clusters, K. Initialize K cluster centroids. This can be done randomly or using specific initialization methods like K-means++.<br>
+**2.Assignment Step:**<br>
+Assign each data point to the nearest cluster centroid. The assignment is typically based on minimizing the Euclidean distance between the data point and the cluster centroid.<br>
+**3.Update Step:**<br>
+Recalculate the centroids of the clusters by computing the mean of all data points assigned to each cluster.<br>
+**4.Convergence Check:**<br>
+Repeat the assignment and update steps until the centroids no longer change significantly or a maximum number of iterations is reached.<br>
 
 Kmeans algorithm can be used in two  ways to choose optimum k value:<br>
-**Elbow method**<br>
-**Purpose based**<br>
+**Elbow method:**<br>
+The Elbow Method is a heuristic used to determine the optimal number of clusters (K) in K-means clustering. It involves running K-means clustering on the dataset for a range of K values and then plotting the within-cluster sum of squares (WCSS) against the number of clusters. The point where the WCSS begins to diminish more slowly (forming an "elbow") is considered the optimal number of clusters.<br>
+**Purpose based1:**<br>
+The purpose-based approach to selecting the optimal number of clusters in K-means clustering involves choosing the number of clusters based on the specific goals and requirements of the analysis rather than relying solely on statistical or heuristic methods like the Elbow Method. This approach takes into consideration the context and objectives of the clustering task to determine the most meaningful number of clusters.<br>
 
 **ADVANTAGES OF CUSTOMER SEGMENTATION**<br>
 1. Price optimization<br>
