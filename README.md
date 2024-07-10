@@ -33,3 +33,21 @@ Libraries: Pandas, Numpy, Matplotlib, SciKit learn ,Seaborn<br>
 2. **Psychographic**- Interests, Lifestyle, Psychological Influences, Motivation, Priorities<br>
 3. **Behavioural**- Purchasing Habits, Spending Habits, User Status, Brand Iteractions<br>
 4. **Gegraphic**- ZIP Code, City, Country, Climate, Urban or Rural<br>
+
+**K- MEANS ALGORITHM**<br>
+It is an iterative algorithm that divides the unlabelled dataset into k different clusters in such a way that each dataset belongs to only one group that has similar properties.<br>
+![k means](https://github.com/Ishita-verma20/CODETECH_TASK_1/assets/174854145/0be2399e-e062-4f77-9117-fbbd05131526)<br>
+
+Kmeans algorithm can be used in two  ways to choose optimum k value:<br>
+**Elbow method**<br>
+**Purpose based**<br>
+
+**ADVANTAGES OF CUSTOMER SEGMENTATION**<br>
+1. Price optimization<br>
+ 2. enhances competitiveness<br>
+ 3. Brand awareness<br>
+ 4. Acquisition and retegntion<br>
+ 5. Increases revenue and ROI<br>
+
+
+
