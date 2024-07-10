@@ -5,4 +5,4 @@
 <b>DOMAIN</b> - DATA ANALYTICS<br>
 <b>DURATION</b> - 5 JULY TO 5 AUGUST<br>
 
-<font-20>OVERVIEW OF THE PROJECT</font> 
+<b> <u>OVERVIEW OF THE PROJECT</b> </u> 
