@@ -49,6 +49,8 @@ Recalculate the centroids of the clusters by computing the mean of all data poin
 Repeat the assignment and update steps until the centroids no longer change significantly or a maximum number of iterations is reached.<br>
 
 Kmeans algorithm can be used in two  ways to choose optimum k value:<br>
+![WhatsApp Image 2024-07-10 at 14 51 49_59b41a23](https://github.com/Ishita-verma20/CODETECH_TASK_1/assets/174854145/000dc4e1-efdc-42c5-8aac-e2e158da2c90)
+
 **Elbow method:**<br>
 The Elbow Method is a heuristic used to determine the optimal number of clusters (K) in K-means clustering. It involves running K-means clustering on the dataset for a range of K values and then plotting the within-cluster sum of squares (WCSS) against the number of clusters. The point where the WCSS begins to diminish more slowly (forming an "elbow") is considered the optimal number of clusters.<br>
 **Purpose based1:**<br>
