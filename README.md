@@ -1,11 +1,4 @@
-# CODETECH TASK 1
-<b>NAME </b>- ISHITA VERMA <br>
-<b>COMPANY</b> - CODETECH IT SOLUTION<br>
-<b>ID</b> - CT4DA4095<br>
-<b>DOMAIN</b> - DATA ANALYTICS<br>
-<b>DURATION</b> - 5 JULY TO 5 AUGUST<br>
 
-<b> <u>OVERVIEW OF THE PROJECT</b> </u> <br>
  <b> PROJECT - CUSTOMER SEGMENTATION AND ANALYSIS</b><br>
  Objective <br>
  The objective of this project is to perform DATA ANALYSIS on a dataset containing customers annual income and their spending scores of a mall. This dataset helps to analyse the data and also help to analyse the details about the revenue attained by the customers spending values.Customer segmentation involves dividing a customer base into distinct groups with similar characteristics to better target marketing efforts and personalize customer experiences.<br>
